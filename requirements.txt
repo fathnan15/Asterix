@@ -1,3 +1,2 @@
 streamlit
 gspread
-oauth2client
